@@ -143,7 +143,21 @@ const theme = createTheme({
     '0 35px 60px -12px rgba(0, 0, 0, 0.3)',
     '0 40px 80px -12px rgba(0, 0, 0, 0.35)',
     '0 50px 100px -20px rgba(0, 0, 0, 0.4)',
-    ...Array(15).fill('0 50px 100px -20px rgba(0, 0, 0, 0.4)')
+    '0 50px 100px -20px rgba(0, 0, 0, 0.4)',
+    '0 50px 100px -20px rgba(0, 0, 0, 0.4)',
+    '0 50px 100px -20px rgba(0, 0, 0, 0.4)',
+    '0 50px 100px -20px rgba(0, 0, 0, 0.4)',
+    '0 50px 100px -20px rgba(0, 0, 0, 0.4)',
+    '0 50px 100px -20px rgba(0, 0, 0, 0.4)',
+    '0 50px 100px -20px rgba(0, 0, 0, 0.4)',
+    '0 50px 100px -20px rgba(0, 0, 0, 0.4)',
+    '0 50px 100px -20px rgba(0, 0, 0, 0.4)',
+    '0 50px 100px -20px rgba(0, 0, 0, 0.4)',
+    '0 50px 100px -20px rgba(0, 0, 0, 0.4)',
+    '0 50px 100px -20px rgba(0, 0, 0, 0.4)',
+    '0 50px 100px -20px rgba(0, 0, 0, 0.4)',
+    '0 50px 100px -20px rgba(0, 0, 0, 0.4)',
+    '0 50px 100px -20px rgba(0, 0, 0, 0.4)',
   ],
   components: {
     MuiCssBaseline: {
