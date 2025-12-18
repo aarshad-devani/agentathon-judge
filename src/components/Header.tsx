@@ -40,7 +40,7 @@ const Header: React.FC = () => {
 
   return (
     <AppBar 
-      position="static" 
+      position="sticky" 
       elevation={0}
       sx={{
         background: 'linear-gradient(135deg, #1e293b 0%, #334155 50%, #475569 100%)',
@@ -66,7 +66,9 @@ const Header: React.FC = () => {
               justifyContent: 'center',
               width: 48,
               height: 48,
-              borderRadius: '12px',
+              borderBottomLeftRadius: "12px",
+              borderBottomRightRadius: "12px",
+              // borderRadius: '12px',
               background: 'linear-gradient(135deg, #7c3aed 0%, #a855f7 100%)',
               boxShadow: '0 4px 6px -1px rgba(0, 0, 0, 0.1), 0 2px 4px -1px rgba(0, 0, 0, 0.06)',
               transition: 'transform 0.2s ease'
